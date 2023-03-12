@@ -1,6 +1,6 @@
 # purchase_order_posting_example.xlsm
  
-"purchase_order_posting_example.xlsm"は、私が過去に作成した発注書転記+PDF作成(ExcelVBA)のサンプルコードになります。
+"purchase_order_posting_example.xlsm"は、発注書転記+PDF作成(ExcelVBA)のサンプルコードになります。
 
 ## フォルダ構成
 ・20220418週：マクロ実行後に作成されるPDFファイル格納フォルダです。
